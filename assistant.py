@@ -15,7 +15,7 @@ os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 
 wake_word = 'joko'
 
-groq_client = Groq(api_key= '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')
+groq_client = Groq(api_key= '-------------')
 genai.configure(api_key='AIzaSyA_CUSUEkFT2Sih21vOYpL8p3WiMdfXKHg')
 
 sys_msg = (
