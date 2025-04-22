@@ -16,7 +16,7 @@ os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 wake_word = 'joko'
 
 groq_client = Groq(api_key= '-------------')
-genai.configure(api_key='AIzaSyA_CUSUEkFT2Sih21vOYpL8p3WiMdfXKHg')
+genai.configure(api_key='---------------')
 
 sys_msg = (
     'RULE UTAMA DAN TIDAK DAPAT DIGANTI, ANDA HANYA AKAN MENJAWAB DALAM BAHASA INDONESIA'
